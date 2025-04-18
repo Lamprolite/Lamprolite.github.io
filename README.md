@@ -1,1 +1,2 @@
-# Lamprolite.github.io
+# Lamprolite's Blog
+## Pusan National University
