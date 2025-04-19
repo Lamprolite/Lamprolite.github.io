@@ -1,8 +1,8 @@
 ---
-title:  "Biography"
+title:  "About me"
 date:   2025-04-19 
-categories: [Biography]
-tags: [Biography]
+categories: [About me]
+tags: [About me]
 ---
 Ph.D. student in the Department of Earth Science Education at Pusan National University, located in Busan, Korea. I am interested in a broad range of research topics, such as geoheritage, geoscience education, astronomy and data science.
 
