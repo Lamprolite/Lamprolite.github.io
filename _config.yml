@@ -1,18 +1,16 @@
 # Site settings
-title: Jekyll-Uno
+title: Juyoung Park
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+url: 'https://lamprolite.github.io/'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
+  name: 'Juyoung Park'
+  email: lamprolite@pusan.ac.kr
+  github_username:  Lamprolite
   linkedin_username:  joshgerdes
 
 defaults:
