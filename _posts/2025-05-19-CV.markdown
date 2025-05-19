@@ -4,7 +4,7 @@ date:   2025-05-19
 categories: [Publications, books, open_lecture]
 tags: [Publications, books, open_lecture]
 ---
-## ** 1. Books **
+## 1. Books
 
   - 박주영 외. 2020, 부산광역시교육청, 중학교 탐구체험활동 우리학교 과학탐방, 우리동네 과학탐방
 
