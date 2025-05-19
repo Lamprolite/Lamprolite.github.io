@@ -1,8 +1,8 @@
 ---
 title:  "Publications"
 date:   2025-05-19 
-categories: [Publications][books][open_lecture]
-tags: [Publications][books]
+categories: [Publications],[books],[open_lecture]
+tags: [Publications],[books]
 ---
 1. Books
 
