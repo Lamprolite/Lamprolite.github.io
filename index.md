@@ -1,12 +1,12 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/profile_picture.jpg
   alt: website picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! An Earth Science teacher of Pusan Metropolitan City Office Of Education and Ph.D student of Department of Earth Sceince at Pusan National UniversityThis site </a>.
 </p>
 
 <p>
