@@ -4,7 +4,6 @@ source "https://rubygems.org"
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
-gem "bay_jekyll_theme"
 gem "jekyll", "~> 4.3.4"
 
 # Plugins
