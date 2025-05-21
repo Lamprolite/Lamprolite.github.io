@@ -3,7 +3,7 @@
 
 title: Juyoung Park
 description: Bay is a minimal Jekyll Theme.
-baseurl: "/index"
+baseurl: "/bay"
 url: "https://lamprolite.github.io"
 og_image: /assets/img/profile_picture.jpg
 google_analytics: "UA-121636368-3"
