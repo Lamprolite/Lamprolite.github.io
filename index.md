@@ -6,7 +6,8 @@ profile_picture:
 ---
 
 <p>
-  Welcome! An Earth Science teacher of Pusan Metropolitan City Office Of Education and Ph.D student of Department of Earth Sceince at Pusan National UniversityThis site </a>.
+  Welcome! 
+  An Earth Science teacher of Pusan Metropolitan City Office Of Education and Ph.D student of Department of Earth Sceince at Pusan National UniversityThis site.
 </p>
 
 <p>
