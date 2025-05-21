@@ -38,7 +38,7 @@ footer:
     - type: github
       name: GitHub
       link: http://github.com/Lamprolite
-    - type: Youtube
+    - type: rss
       name: Youtube
       link: https://www.youtube.com/@lamprolite
   #  - type: rss
