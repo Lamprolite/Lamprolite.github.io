@@ -1,7 +1,7 @@
 ---
-layout: work
-title: Work
-slug: /work
+layout: CV&Publications
+title: CV&Publications
+slug: CV&Publications.md
 items:
   - title: My Interest 1
     image:
