@@ -53,7 +53,7 @@ profile_picture:
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <style>
     .box {
-      border: 1px solid #d3d3d3; /* 테두리 설정 */
+      border: 1px solid transparent; /* 테두리 설정 */
       padding: 10px; /* 내부 여백 설정 */
       margin: 10px auto; /* 외부 여백 설정 */
       border-radius: 10px; /* 모서리 둥글게 설정 */
@@ -108,7 +108,7 @@ profile_picture:
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <style>
     .box {
-      border: 1px solid #d3d3d3; /* 테두리 설정 */
+      border: 1px solid transparent; /* 테두리 설정 */
       padding: 10px; /* 내부 여백 설정 */
       margin: 10px auto; /* 외부 여백 설정 */
       border-radius: 10px; /* 모서리 둥글게 설정 */
@@ -128,7 +128,7 @@ profile_picture:
   </div>
    <div class="box">
     <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Guidance for the 9th High School Science Project Research Presentation Competition</strong></p></h3>
-    <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;">Busan Metropolitan City Office Of Education · Dec 2018</p></h4>
+    <h4 style="margin:0 auto;"><p style="margin-left: 20px; margin-top: 0.5px;">Busan Metropolitan City Office Of Education · Dec 2018</p></h4>
   </div>
   
 </body>
@@ -157,8 +157,8 @@ profile_picture:
       box-sizing: border-box; /* 박스 크기 설정 */
       text-align: center; /* 텍스트 가운데 정렬 */
       display: flex; /* 플렉스 박스 설정 */
-      align-items: center; /* 아이템 가운데 정렬 */
-      justify-content: center; /* 아이템 가운데 정렬 */
+      align-items: justify; /* 아이템 가운데 정렬 */
+      justify-content: justifyr; /* 아이템 가운데 정렬 */
     }
     .skill-item i {
       margin-right: 10px; /* 아이콘 오른쪽 여백 설정 */
