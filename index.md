@@ -161,7 +161,7 @@ profile_picture:
       justify-content: center; /* 아이템 가운데 정렬 */
     }
     .skill-item i {
-      margin-right: 10px; /* 아이콘 오른쪽 여백 설정 */
+      margin-right: 20px; /* 아이콘 오른쪽 여백 설정 */
     }
   </style>
 </head>
