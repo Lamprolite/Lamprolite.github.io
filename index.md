@@ -150,7 +150,7 @@ profile_picture:
     }
     .skill-item {
       background-color: #f9f9f9; /* 배경색 설정 */
-      border: 1px solid #d3d3d3; /* 테두리 설정 */
+      border: 1px solid transparent; /* 테두리 설정 */
       border-radius: 5px; /* 모서리 둥글게 설정 */
       padding: 10px; /* 내부 여백 설정 */
       flex: 1 1 calc(33.333% - 20px); /* 항목 크기 설정 */
@@ -168,7 +168,8 @@ profile_picture:
 <body>
   <div class="skills">
     <div class="skill-item">
-      <i class="fab fa-python"></i> Python - Beginner
+      <i class="fab fa-python"></i> 
+      <p><h4>Python - Beginner</h4></p>
     </div>
     <div class="skill-item">
       <i class="fab fa-linux"></i> Linux - Advanced
