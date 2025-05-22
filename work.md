@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/CV.png
       alt: CV
-    description: <a href="/CV.pdf">CV</a>. 
+    description: <a href= "CV.pdf"> CV </a>
   - title: Publications
     image:
       src: /assets/img/work/publications.png
