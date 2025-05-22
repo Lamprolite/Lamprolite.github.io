@@ -169,27 +169,27 @@ profile_picture:
   <div class="skills">
     <div class="skill-item">
       <i class="fab fa-python"></i> 
-      <h3 style="margin-top: 5px">Python - Beginner</h3>
+      <h3 style="margin-top: 10px">Python - Beginner</h3>
     </div>
     <div class="skill-item">
       <i class="fab fa-linux"></i> 
-      <h3>Linux - Advanced</h3>
+      <h3 style="margin-top: 10px">Linux - Advanced</h3>
     </div>
     <div class="skill-item">
       <i class="fas fa-table-tennis"></i>
-      <h3>Squash - Beginner</h3>
+      <h3 style="margin-top: 10px">Squash - Beginner</h3>
     </div>
     <div class="skill-item">
       <i class="fas fa-plane"></i>
-      <h3>Travel - Expert</h3>
+      <h3 style="margin-top: 10px">Travel - Expert</h3>
     </div>
     <div class="skill-item">
       <i class="fas fa-guitar"></i> 
-      <h3>Guitar - Beginner</h3>
+      <h3 style="margin-top: 10px">Guitar - Beginner</h3>
     </div>
     <div class="skill-item">
       <i class="fas fa-coffee"></i>
-      <h3>Caffe - Expert</h3>
+      <h3 style="margin-top: 10px">Caffe - Expert</h3>
     </div>
  </div>
 </body>
