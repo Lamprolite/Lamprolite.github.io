@@ -168,7 +168,7 @@ profile_picture:
 <body>
   <div class="skills">
     <div class="skill-item">
-      <i class="fab fa-python"></i> 
+      <i class="fab fa-python" style="font-size:48px;"></i> 
       <h3 style="margin-top: 10px">Python - Beginner</h3>
     </div>
     <div class="skill-item">
