@@ -169,7 +169,7 @@ profile_picture:
   <div class="skills">
     <div class="skill-item">
       <i class="fab fa-python" style="font-size:48px;"></i> 
-      <h3 style="margin-top: 10px">Python - Beginner</h3>
+      <h3 style="margin-top: 10px">Python - Intermediate</h3>
     </div>
     <div class="skill-item">
       <i class="fab fa-linux" style="font-size:48px;"></i> 
@@ -177,7 +177,7 @@ profile_picture:
     </div>
     <div class="skill-item">
       <i class="fas fa-table-tennis" style="font-size:48px;"></i>
-      <h3 style="margin-top: 10px">Squash - Beginner</h3>
+      <h3 style="margin-top: 10px">Squash - Intermediate</h3>
     </div>
     <div class="skill-item">
       <i class="fas fa-plane" style="font-size:48px;"></i>
