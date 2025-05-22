@@ -127,7 +127,7 @@ profile_picture:
     <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;">Korea National Park Service · Dec 2015</p></h4>
   </div>
    <div class="box">
-    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>제 9회 고교 과학프로젝트 연구 발표대회 지도 </strong></p></h3>
+    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Guidance for the 9th High School Science Project Research Presentation Competition</strong></p></h3>
     <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;">Busan Metropolitan City Office Of Education · Dec 2018</p></h4>
   </div>
   
@@ -169,23 +169,27 @@ profile_picture:
   <div class="skills">
     <div class="skill-item">
       <i class="fab fa-python"></i> 
-      <h4>Python - Beginner</h4>
+      <h3>Python - Beginner</h3>
     </div>
     <div class="skill-item">
-      <i class="fab fa-linux"></i> Linux - Advanced
+      <i class="fab fa-linux"></i> 
+      <h3>Linux - Advanced</h3>
     </div>
     <div class="skill-item">
-      <i class="fas fa-table-tennis"></i> Squash - Beginner
+      <i class="fas fa-table-tennis"></i>
+      <h3>Squash - Beginner</h3>
     </div>
     <div class="skill-item">
-      <i class="fas fa-plane"></i> Travel - Expert
+      <i class="fas fa-plane"></i>
+      <h3>Travel - Expert</h3>
     </div>
     <div class="skill-item">
-      <i class="fas fa-guitar"></i> Guitar - Beginner
+      <i class="fas fa-guitar"></i> 
+      <h3>Guitar - Beginner</h3>
     </div>
-    
     <div class="skill-item">
-      <i class="fas fa-coffee"></i> Caffe - Expert
+      <i class="fas fa-coffee"></i>
+      <h3>Caffe - Expert</h3>
     </div>
  </div>
 </body>
