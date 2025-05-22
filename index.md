@@ -169,7 +169,7 @@ profile_picture:
   <div class="skills">
     <div class="skill-item">
       <i class="fab fa-python"></i> 
-      <p><h4>Python - Beginner</h4></p>
+      <h4>Python - Beginner</h4>
     </div>
     <div class="skill-item">
       <i class="fab fa-linux"></i> Linux - Advanced
