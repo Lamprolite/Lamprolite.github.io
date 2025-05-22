@@ -73,6 +73,11 @@ profile_picture:
     <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>First National Geopark Paper Contest - Geological Society President's Award</strong></p></h3>
     <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;">Korea National Park Service · Dec 2015</p></h4>
   </div>
+   <div class="box">
+    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>제 9회 고교 과학프로젝트 연구 발표대회 지도 </strong></p></h3>
+    <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;">Busan Metropolitan City Office Of Education · Dec 2018</p></h4>
+  </div>
+  
 </body>
 </html>
 
