@@ -155,10 +155,10 @@ profile_picture:
       padding: 10px; /* 내부 여백 설정 */
       flex: 1 1 calc(33.333% - 20px); /* 항목 크기 설정 */
       box-sizing: border-box; /* 박스 크기 설정 */
-      text-align: center; /* 텍스트 가운데 정렬 */
+      text-align: justify; /* 텍스트 가운데 정렬 */
       display: flex; /* 플렉스 박스 설정 */
-      align-items: justify; /* 아이템 가운데 정렬 */
-      justify-content: justifyr; /* 아이템 가운데 정렬 */
+      align-items: center; /* 아이템 가운데 정렬 */
+      justify-content: center; /* 아이템 가운데 정렬 */
     }
     .skill-item i {
       margin-right: 10px; /* 아이콘 오른쪽 여백 설정 */
