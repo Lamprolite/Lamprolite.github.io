@@ -155,7 +155,7 @@ profile_picture:
       padding: 10px; /* 내부 여백 설정 */
       flex: 1 1 calc(33.333% - 20px); /* 항목 크기 설정 */
       box-sizing: border-box; /* 박스 크기 설정 */
-      text-align: justify; /* 텍스트 가운데 정렬 */
+      text-align: center; /* 텍스트 가운데 정렬 */
       display: flex; /* 플렉스 박스 설정 */
       align-items: center; /* 아이템 가운데 정렬 */
       justify-content: center; /* 아이템 가운데 정렬 */
@@ -169,7 +169,7 @@ profile_picture:
   <div class="skills">
     <div class="skill-item">
       <i class="fab fa-python"></i> 
-      <h3>Python - Beginner</h3>
+      <h3 style="margin-top: 5px">Python - Beginner</h3>
     </div>
     <div class="skill-item">
       <i class="fab fa-linux"></i> 
