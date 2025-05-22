@@ -16,14 +16,14 @@ header:
     - name: Blog
 
 footer:
-  show_powered_by: true
+  show_powered_by: False
   contact:
     - type: email
       name: Email
       value: lamprolite@pusan.ac.kr 
-    #- type: wechat
-     # value: YourWeChatUsername
-      #link: "#"
+    - type: call
+      value: Call
+      value: +82)510-3248
   follow:
    # - type: twitter
   #  name: Twitter
