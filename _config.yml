@@ -52,7 +52,8 @@ footer:
       link: https://www.youtube.com/@lamprolite
     - type: blog
       name: Blog
-    - link: https://blog.naver.com/lamprolite
+      link: https://blog.naver.com/lamprolite
+    
 
 # Build settings
 markdown: kramdown
