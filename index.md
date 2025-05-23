@@ -168,27 +168,27 @@ profile_picture:
 <body>
   <div class="skills">
     <div class="skill-item">
-      <i class="fab fa-python" style="font-size:48px;"></i> 
+      <i class="fab fa-python" style="font-size:46px;"></i> 
       <h3 style="margin-top: 10px">Python - Intermediate</h3>
     </div>
     <div class="skill-item">
-      <i class="fab fa-linux" style="font-size:48px;"></i> 
+      <i class="fab fa-linux" style="font-size:46px;"></i> 
       <h3 style="margin-top: 10px">Linux - Advanced</h3>
     </div>
     <div class="skill-item">
-      <i class="fas fa-table-tennis" style="font-size:48px;"></i>
+      <i class="fas fa-table-tennis" style="font-size:46px;"></i>
       <h3 style="margin-top: 10px">Squash - Intermediate</h3>
     </div>
     <div class="skill-item">
-      <i class="fas fa-plane" style="font-size:48px;"></i>
+      <i class="fas fa-plane" style="font-size:46px;"></i>
       <h3 style="margin-top: 10px">Travel - Expert</h3>
     </div>
     <div class="skill-item">
-      <i class="fas fa-guitar" style="font-size:48px;"></i> 
+      <i class="fas fa-guitar" style="font-size:46px;"></i> 
       <h3 style="margin-top: 10px">Guitar - Beginner</h3>
     </div>
     <div class="skill-item">
-      <i class="fas fa-coffee" style="font-size:48px;"></i>
+      <i class="fas fa-coffee" style="font-size:46px;"></i>
       <h3 style="margin-top: 10px">Caffe - Expert</h3>
     </div>
  </div>
