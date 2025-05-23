@@ -2,7 +2,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 title: Juyoung Park
-description: Bay is a minimal Jekyll Theme.
+description: J.Park
 baseurl: "/bay"
 url: "https://lamprolite.github.io"
 og_image: /assets/img/profile_picture.jpg
