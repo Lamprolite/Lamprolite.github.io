@@ -50,7 +50,7 @@ footer:
     - type: youtube
       name: Youtube
       link: https://www.youtube.com/@lamprolite
-    - type: rss
+    - type: blog
       name: Blog
     - link: https://blog.naver.com/lamprolite
 
