@@ -50,9 +50,9 @@ footer:
     - type: youtube
       name: Youtube
       link: https://www.youtube.com/@lamprolite
-  #  - type: rss
-  #    name: RSS
-  #    link: /feed.xml
+    - type: rss
+      name: Blog
+    - link: https://blog.naver.com/lamprolite
 
 # Build settings
 markdown: kramdown
