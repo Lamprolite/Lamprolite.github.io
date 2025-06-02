@@ -11,12 +11,12 @@ items:
   - title: publications
     image:
       src: /assets/img/work/publications.png
-      alt: Publications
+      alt: publications
     description: <a href= "Publications.pdf"> Publications </a>
   - title: open lecture
     image:
       src: /assets/img/work/open_lecture.png
-      alt: Open_lectures & Experiences 
+      alt: Open_lectures 
     description: <a href= "Open_lecture.pdf"> Open lectures </a>
 
 ---
