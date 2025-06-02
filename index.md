@@ -15,6 +15,7 @@ profile_picture:
     <li>Geoheritages</li>
     <li>Geoparks</li>
     <li>Earth Science Education</li>
+    <li>Data Analysis</li>
     <li>Astronomy</li>
 </ul>
 
@@ -70,25 +71,43 @@ profile_picture:
   </div>
   
   <div class="box">
-    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Middle School Teacher</strong></p></h3>
+    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Secondary Educator(Science)</strong></p></h3>
     <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;margin-bottom: 0.5px;"><a href="https://www.pen.go.kr/main/main.do">Pusan Metropolitan City Office Of Education</a></p></h4>
      <h5 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px; margin-bottom: 0.5px;">Mar 2019 – Present · Busan, Korea</p></h5>
   </div>
   
   <div class="box">
-    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Gifted Educational Teacher</strong></p></h3>
+    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Science Education Enhancement Task Force</strong></p></h3>
+    <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;margin-bottom: 0.5px;"><a href="https://www.pen.go.kr/main/main.do">Pusan Metropolitan City Office Of Education</a></p></h4>
+     <h5 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px; margin-bottom: 0.5px;">Mar 2020 – Feb 2025 · Busan, Korea</p></h5>
+  </div>
+
+  <div class="box">
+    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Instructional Evaluation Consulting Support Group</strong></p></h3>
+    <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;margin-bottom: 0.5px;"><a href="https://www.pen.go.kr/main/main.do">Pusan Metropolitan City Office Of Education</a></p></h4>
+     <h5 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px; margin-bottom: 0.5px;">Mar 2022 – Feb 2024 · Busan, Korea</p></h5>
+  </div>
+  
+  <div class="box">
+    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Gifted Education Teacher</strong></p></h3>
     <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;margin-bottom: 0.5px;"><a href="https://home.pen.go.kr/bicce/main.do">Institute of Creative Convergence Education</a></p></h4>
      <h5 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px; margin-bottom: 0.5px;">Mar 2022 – Present · Busan, Korea</p></h5>
   </div>
   
   <div class="box">
-    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Gifted Educational Teacher</strong></p></h3>
+    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Gifted Education Teacher</strong></p></h3>
     <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;margin-bottom: 0.5px;"><a href="https://home.pen.go.kr/nambu/na/ntt/selectNttList.do?mi=11930&bbsId=3863">Nambu District Office of Eduacation, Busan, Korea</a></p></h4>
      <h5 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px; margin-bottom: 0.5px;">Mar 2021 – Present · Busan, Korea</p></h5>
   </div> 
+
+  <div class="box">
+    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Gifted Education Teacher</strong></p></h3>
+    <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;margin-bottom: 0.5px;"><a href="https://www.pen.go.kr/main/main.do">Pusan Metropolitan City Office Of Education, Busan, Korea</a></p></h4>
+     <h5 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px; margin-bottom: 0.5px;">Mar 2018 – Feb 2019 · Busan, Korea</p></h5>
+  </div> 
   
   <div class="box">
-    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>High School Teacher</strong></p></h3>
+    <h3 style="margin:0;"><p style="margin-left: 20px; margin-bottom: 0.5px;"><strong>Secondary School Teacher</strong></p></h3>
     <h4 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px;margin-bottom: 0.5px;"><a href="https://www.pen.go.kr/main/main.do">Pusan Metropolitan City Office Of Education</a></p></h4>
      <h5 style="margin:0;"><p style="margin-left: 20px; margin-top: 0.5px; margin-bottom: 0.5px;">Mar 2018 – Feb 2019 · Busan, Korea</p></h5>
   </div>
