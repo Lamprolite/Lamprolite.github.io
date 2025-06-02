@@ -8,7 +8,7 @@ profile_picture:
 <p><strong><h1> Biography </h1></strong></p>
 
 <p><h3>An Earth Science teacher of <a href="https://www.pen.go.kr/main/main.do">Pusan Metropolitan City Office Of Education</a> and Ph.D Student of <a href="https://earth.pusan.ac.kr/earth/index.do">Dept. of Earth Science at Pusan National University</a>, located in Busan, Korea.</h3></p>
-<p><h3>I am interested in a broad range of research topics, such as geoheritages, astronomy, earth science education, etc.</h3></p>
+<p><h3>I am interested in a broad range of research topics, such as geoheritages, earth science education, data analysis and astronomy, etc.</h3></p>
 
 <p><h2><strong> Interests</strong></h2></p>
 <ul>
