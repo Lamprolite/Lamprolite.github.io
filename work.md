@@ -8,12 +8,12 @@ items:
       src: /assets/img/work/CV.png
       alt: CV
     description: <a href= "CV.pdf"> Curriculum Vitae </a>
-  - title: Publications
+  - title: publications
     image:
       src: /assets/img/work/publications.png
       alt: Publications
     description: <a href= "Publications.pdf"> Publications </a>
-  - title: Open lecture
+  - title: open lecture
     image:
       src: /assets/img/work/open_lecture.png
       alt: Open_lectures & Experiences 
