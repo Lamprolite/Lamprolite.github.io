@@ -53,6 +53,9 @@ footer:
     - type: blog
       name: Blog
       link: https://blog.naver.com/lamprolite
+    - type: orcid
+      name: ORCID
+      link: https://orcid.org/0009-0006-4236-0743
     
 
 # Build settings
