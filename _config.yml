@@ -13,7 +13,9 @@ header:
     - name: Home
       slug: /
     - name: Work
-    - name: Blog
+    - name: Research
+    - name: Travel
+    - name: Study
 
 footer:
   show_powered_by: False
