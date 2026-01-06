@@ -195,8 +195,8 @@ profile_picture:
       <h3 style="margin-top: 10px">Linux - Advanced</h3>
     </div>
     <div class="skill-item">
-      <i class="fas fa-table-tennis" style="font-size:46px;"></i>
-      <h3 style="margin-top: 10px">Squash - Intermediate</h3>
+      <i class="fas fa-futbol" style="font-size:46px;"></i>
+      <h3 style="margin-top: 10px">Soccer - Beginner</h3>
     </div>
     <div class="skill-item">
       <i class="fas fa-plane" style="font-size:46px;"></i>
